@@ -46,7 +46,7 @@ Currently exploring the intersection of applied Machine Learning and modern web 
 
 ## 🚀 Projects
 
-**`01` · ML — CropGuard: Crop Health Prediction System** &nbsp; *2025*
+**`01` · ML — CropGuard: Crop Health Prediction System** &nbsp; *2026*
 
 > `Python` `TensorFlow` `OpenCV` `Scikit-Learn` `React`
 
